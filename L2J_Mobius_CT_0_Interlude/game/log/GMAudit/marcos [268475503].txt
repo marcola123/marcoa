@@ -1,0 +1,2 @@
+15/09/2025 16:57:04>marcos [268475503]>Drop>Roxxy>(id: 9136 name: Sword of Valakas (1-Handed) objId: 268475967 x: -84218 y: 244920 z: -3755)
+15/09/2025 16:57:11>marcos [268475503]>Drop>Roxxy>(id: 9136 name: Sword of Valakas (1-Handed) objId: 268475968 x: -84312 y: 244794 z: -3755)
